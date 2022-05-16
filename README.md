@@ -6,5 +6,5 @@
 <img width="400" height="500" src="./pic/플랫폼_높이.jpg"></img>
 
 ## 10주차 과제
-<img width="700" height="400" src="./pic/10_App_main.png"></img>
+<img width="800" height="600" src="./pic/10_App_main.png"></img>
 <img width="700" height="400" src="./pic/10_App_menu.png"></img>
