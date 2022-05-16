@@ -4,3 +4,7 @@
 <img width="400" height="500" src="./pic/플랫폼_바뀐사진.jpg"></img>
 <img width="400" height="500" src="./pic/플랫폼_넓이.jpg"></img>
 <img width="400" height="500" src="./pic/플랫폼_높이.jpg"></img>
+
+## 10주차 과제
+<img width="400" height="500" src="./pic/10_App_main.png"></img>
+<img width="400" height="500" src="./pic/10_App_menu.png"></img>
