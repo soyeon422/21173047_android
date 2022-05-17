@@ -11,4 +11,6 @@
 
 ## 11주차 과제
 <img width="800" height="700" src="./pic/MainActivity1.PNG"></img>
-<img width="700" height=400" src="./pic/MainActivity2.PNG"></img>
+<img width="800" height="600" src="./pic/MainActivity2.PNG"></img>
+<img width="800" height="700" src="./pic/activity_main1.PNG"></img>
+<img width="400" height="600" src="./pic/실행화면.PNG"></img>
