@@ -8,3 +8,7 @@
 ## 10주차 과제
 <img width="800" height="600" src="./pic/10_App_main.png"></img>
 <img width="700" height="400" src="./pic/10_App_menu.png"></img>
+
+## 11주차 과제
+<img width="800" height="700" src="./pic/MainActivity1.PNG"></img>
+<img width="700" height=400" src="./pic/MainActivity2.PNG"></img>
