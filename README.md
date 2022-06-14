@@ -23,3 +23,18 @@
 <img width="1000" height="600" src="./pic/movieitem3.png"></img>
 ## movie_item.xml 디자인
 <img width="400" height="600" src="./pic/movieitem2.png"></img>
+## activity_main.xml 코드
+<img width="1000" height="600" src="./pic/activity_main2.png"></img>
+## activity_main.xml 디자인
+<img width="400" height="600" src="./pic/activity_main.png"></img>
+## MovieList
+<img width="1000" height="600" src="./pic/MovieList.png"></img>
+## Movie.jave
+<img width="400" height="600" src="./pic/Movie.png"></img>
+## MainActivity
+<img width="1000" height="600" src="./pic/MainActivity.png"></img>
+<img width="1000" height="600" src="./pic/MainActivity2.png"></img>
+<img width="1000" height="600" src="./pic/MainActivity3.png"></img>
+<img width="1000" height="600" src="./pic/MainActivity4.png"></img>
+## MovieAdapter
+<img width="1000" height="600" src="./pic/MovieAdapter.png"></img>
