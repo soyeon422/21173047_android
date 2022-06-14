@@ -13,5 +13,10 @@
 <img width="400" height="600" src="./pic/실행화면.PNG"></img>
 
 
-## 기말 과제(실행이안돼서코드올리겠습니다..)
-<img width="400" height="600" src="./pic/MovieRank1.PNG"></img>
+# 기말 과제(실행이안돼서코드올리겠습니다..)
+## Rank 추가
+<img width="1000" height="600" src="./pic/MovieRank1.png"></img>
+<img width="1000" height="600" src="./pic/MovieRank2.png"></img>
+<img width="1000" height="600" src="./pic/movieitem.png"></img>
+## Rank 디자인
+<img width="400" height="600" src="./pic/movieitem2.png"></img>
