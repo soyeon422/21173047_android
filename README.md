@@ -17,6 +17,9 @@
 ## Rank 추가
 <img width="1000" height="600" src="./pic/MovieRank1.png"></img>
 <img width="1000" height="600" src="./pic/MovieRank2.png"></img>
+## movie_item.xml 코드
+<img width="1000" height="600" src="./pic/movieitem1.png"></img>
 <img width="1000" height="600" src="./pic/movieitem.png"></img>
-## Rank 디자인
+<img width="1000" height="600" src="./pic/movieitem3.png"></img>
+## movie_item.xml 디자인
 <img width="400" height="600" src="./pic/movieitem2.png"></img>
